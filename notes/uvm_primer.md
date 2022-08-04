@@ -11,6 +11,11 @@ Setting-up tools take time to learn. The final result is often a handful of scri
 
 I am fortunate to work in research center that happen to have  academic licenses for Cadence EDA tools. I'll be using them for these experiments in this learning journey. Maybe one day I may write some other setup script for another tool such as *Questa*. As far as I know, there isn't any open-source simulator that supports UVM integrally. However, a good free alternative is [EDA Playground]([RESEARCH PROJECTS – RTEMSOFT (edaplayground.com)](https://www.edaplayground.com/)). Nevertheless, I wrote a bit about [Setting-up UVM with Cadence Tools](uvm-setup.md).
 
+* [Chapter 2 - Traditional Testbench](chapter2-notes.md)
+* [Chapter 3 - Interfaces and Bus Functional Models](chapter3-notes.md)
+* [Chapters 4, 5, and 6 - Core Concepts of OOP](/chapter456-notes.md)
+
+
 
 
 
