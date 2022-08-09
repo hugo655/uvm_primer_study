@@ -1,0 +1,17 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-XLMODE
+./xcelium.d/run.lnx8664.20.09.d
+-RUNMODE
+-V200X
+tinyalu_dut/single_cycle_add_and_xor.vhd
+tinyalu_dut/three_cycle_mult.vhd
+tinyalu_dut/tinyalu.vhd
+-CDSLIB
+./xcelium.d/run.lnx8664.20.09.d/cdsrun.lib
+-HDLVAR
+./xcelium.d/run.lnx8664.20.09.d/hdlrun.var
+-MESSAGES
+-UPDATE
