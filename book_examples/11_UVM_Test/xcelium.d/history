@@ -1,7 +1,0 @@
-//
-// File created by:  xrun
-// Do not modify this file
-
-s1::(09Aug2022:10:19:41):( xrun -f xrun.f +UVM_TESTNAME=add_test )
-s2::(09Aug2022:10:20:56):( xrun -f xrun.f +UVM_TESTNAME=add_test )
-s3::(09Aug2022:10:27:18):( xrun -f xrun.f +UVM_TESTNAME=add_test )
