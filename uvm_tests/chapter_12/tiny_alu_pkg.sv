@@ -11,6 +11,7 @@ typedef enum bit[2:0] {no_op  = 3'b000,
                        rst_op = 3'b111} operation_t;
 
 `include "tester.svh"
+`include "scoreboard.svh"
 
 
 // Tests
